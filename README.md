@@ -12,7 +12,7 @@ web-api по [заданию](https://docs.google.com/document/d/1e06lBw7CaIMYRP
 * Войти в окружения командой
     * для linux: `source имя_окружения/bin/activate`
     * для windows: `имя_окружения\Scripts\acitvate`
-* Перейти в директорию **bookShop**
+* Перейти в директорию **surf_test**
 * Выполнить команду `pip install requirements.txt` (установка зависимостей)
 * Выполнить команду `python manage.py makemigrations` (создания файла миграции)
 * Выполнить команду `python manage.py migrate` (выполнение миграций)
