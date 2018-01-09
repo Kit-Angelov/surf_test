@@ -3,6 +3,9 @@ django-filter==1.1.0
 django-filters==0.2.1
 djangorestframework==3.7.7
 djangorestframework-filters==0.10.2
+Faker==0.8.8
+mixer==6.0.1
 python-dateutil==2.6.1
 pytz==2017.3
 six==1.11.0
+text-unidecode==1.1
